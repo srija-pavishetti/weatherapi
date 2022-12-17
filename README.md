@@ -1,5 +1,5 @@
 # weatherapi
-html>
+<html>
  <head>
   <script>
     function getData()
